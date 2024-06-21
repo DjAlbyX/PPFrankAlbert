@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Mosquito.cs" />
+    <Compile Remove="Waps.cs" />
+  </ItemGroup>
+
 </Project>
